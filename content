@@ -1,0 +1,96 @@
+1. Java Releases and Evolution	
+		
+2. Compilation		
+		
+3. Running Java Code	1. Java Virtual Machine	
+	2. Java Runtime Environment	
+	3. Java Development Toolkit
+	4. Class Path
+		
+
+
+HEAD FIRST JAVA THIRD EDITION BOOK
+      INTRODUCTION
+        The Way Java Works page 2 
+        What you’ll do in Java page3 
+        A Very Brief History of Java page 4 
+        Code structure in Java 7 
+        Writing a class with a main() page 9 
+        Simple boolean tests page 13 
+        Conditional branching page 15 
+        Coding a Serious Business page 16
+        Phrase-O-Matic page 19 
+        Exercises page 20 
+
+      OBJECTS
+        Chair Wars page 28 
+        Making your first object page 36
+        Making and testing Movie objects  page 37 
+        Quick! Get out of main! page 38 
+        Running the Guessing Game page 40 
+        Exercises page 42 
+
+      PRIMITIVES AND REFERENCES
+        Declaring a variable page 50 
+        Controlling your Dog object page 54 
+        An object reference is just another variable value. page 55
+        Life on the garbage-collectible heap page 57 
+        An array is like a tray of cups page 59
+        A Dog example page 62 
+        Exercises page 63 
+        
+      METHODS USE INSTANCE VARIABLES
+        what an object does page 72
+        The size affects the bark page 73 
+        You can send things to a method page 74 
+        You can get things back from a method. page 75 
+        You can send more than one thing to a method page 76
+        Cool things you can do with parameters and return types page 79
+        Encapsulation page 80
+        How do objects in an array behave? page 83
+        Declaring and initializing instance variables page 84
+        Comparing variables (primitives or references) page 86
+        Exercises 88 page Exercise
+
+      CLASSES
+        Developing a Class page 99
+        Writing the method implementations page 101
+        Writing test code for the SimpleStartup class page 102 
+        The checkYourself() method page 104
+        Prep code for the SimpleStartupGame class page 108 
+        The game’s main() method page 110
+        Let’s play page 113 
+        More about for loops page 114
+        The enhanced for loop page 116 
+        Casting primitives page 117
+        Exercises page 118 
+
+
+        Conditionals	
+          If Statement
+          Switch Statement
+        Loops	
+          For Loop
+          While Loop
+          Do-While Loop
+        Differences between C++ and Java
+
+
+      INTRODUCTION TO ALGORITHMS BOOK:
+        Data Structure : Elementary Data Structures 232
+
+        Stacks and queues 232
+        Linked lists 236
+        Implementing pointers and objects 241
+        Representing rooted trees 246
+        Hash Tables 253
+        Direct-address tables 254
+        Hash tables 256
+        Hash functions 262
+        Open addressing 269  
+        Perfect hashing 277
+        Binary Search Trees 286
+        Augmenting Data Structures 339
+        Dynamic order statistics 339
+        How to augment a data structure 345
+        Interval trees 348
